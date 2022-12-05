@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          HELLO WORLD
+          JIN KAZAMA WINS 
         </a>
       </header>
     </div>
